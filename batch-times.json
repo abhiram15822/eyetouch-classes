@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "1",
+    "name": "Morning Batch",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "status": "active"
+  },
+  {
+    "_id": "2",
+    "name": "Afternoon Batch",
+    "startTime": "14:00",
+    "endTime": "17:00",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "status": "active"
+  }
+]

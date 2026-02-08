@@ -1,0 +1,53 @@
+[
+  {
+    "_id": "1765662390566",
+    "rollNumber": "20240045",
+    "studentName": "vaishanvi kumari",
+    "course": "ADCA",
+    "marks": null,
+    "grade": null,
+    "status": "pass",
+    "remarks": "",
+    "subjectMarks": [
+      {
+        "subject": "Computer Fundamental ",
+        "marks": "71",
+        "maxMarks": "100",
+        "grade": "B+"
+      },
+      {
+        "subject": "Ms-office",
+        "marks": "71",
+        "maxMarks": "100",
+        "grade": "B+"
+      },
+      {
+        "subject": "Internet application & HTMl ",
+        "marks": "75",
+        "maxMarks": "100",
+        "grade": "B+"
+      },
+      {
+        "subject": "DTP ",
+        "marks": "70",
+        "maxMarks": "100",
+        "grade": "B+"
+      },
+      {
+        "subject": "Financial accounting ",
+        "marks": "76",
+        "maxMarks": "100",
+        "grade": "B+"
+      }
+    ],
+    "totalMarks": "363",
+    "percentage": "72.60",
+    "overallGrade": "B+",
+    "examDate": "2025-05-09",
+    "certificateNumber": "EYE/IN/DS/240045",
+    "originalMarksheet": null,
+    "originalCertificate": null,
+    "created_at": "2025-12-13T21:46:30.566Z",
+    "resultStatus": "pass"
+  }
+]
